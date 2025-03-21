@@ -1,0 +1,8 @@
+部品リスト
+
+C1	0.1u
+C2	0.1u
+U1	RaspberryPiPico
+U2	74VHC00(又は同等品)
+U3	74VHC32(又は同等品)
+SW1	スライドスイッチ
