@@ -23,6 +23,9 @@ PC-6007SR(64K RAM + 拡張漢字ROM)ファームウェア
 ## senshi
 戦士のカートリッジファームウェア
 
+## mk2sd(試験的サポート)
+[PC-6001mk2_SD](https://github.com/yanataka60/PC-6001mk2_SD)互換機能ファームウェア
+
 ## uf2conv
 UF2変換ツール
 
